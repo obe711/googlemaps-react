@@ -1,0 +1,15 @@
+language: node_js
+sudo: false
+os:
+  - linux
+node_js:
+  - "7"
+  - "8"
+  - "stable"
+script:
+  - npm run lint
+  - npm run test:all
+before_install:
+  - export TZ=America/Chicago
+notifications:
+  email: false

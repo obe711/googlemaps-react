@@ -1,5 +1,8 @@
 # googlemaps-react
 
+[![npm version](https://badge.fury.io/js/%40obediah%2Fgooglemaps-react.svg)](https://badge.fury.io/js/%40obediah%2Fgooglemaps-react)
+[![GitHub version](https://badge.fury.io/gh/obe711%2Fgooglemaps-react.svg)](https://badge.fury.io/gh/obe711%2Fgooglemaps-react)
+
 A Google Maps component that can be used by simply passing your API Key through props or by saving it to an .env file.
 
 ## Installation
