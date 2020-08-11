@@ -1,0 +1,29 @@
+{
+  "name": "googlemaps-react",
+  "version": "1.0.0",
+  "description": "Google Maps API React Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obe711/googlemaps-react.git"
+  },
+  "keywords": [
+    "Google",
+    "Googlemaps",
+    "React",
+    "google",
+    "api"
+  ],
+  "author": "Obediah Benjamin Klopfestein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obe711/googlemaps-react/issues"
+  },
+  "homepage": "https://github.com/obe711/googlemaps-react#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
