@@ -26,7 +26,18 @@ const GoogleMapsReact = ({ apiKey, latLng, mapOptions, className }) => {
     });
   }, [apiKey, latLng, mapOptions]);
 
-  return <div id="contactUsMap" className={className}></div>;
+  return (
+    <div
+      id="contactUsMap"
+      className={className}
+      style={{
+        height: "100vh",
+        width: "100%",
+        display: "block",
+        position: "relative",
+      }}
+    ></div>
+  );
 };
 
 GoogleMapsReact.propTypes = {
