@@ -22,7 +22,7 @@ yarn add googlemaps-react
 
 ```js
 import React from "react";
-import GoogleMapsReact from "googlemaps-react;
+import GoogleMapsReact from "googlemaps-react";
 
 ...
 
