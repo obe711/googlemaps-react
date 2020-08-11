@@ -36,7 +36,7 @@ return <GoogleMapsReact apiKey={[YOUR_GOOGLE_MAPS_API_KEY]} latLng={[41.093842, 
 export default App;
 ```
 
-[See this example working](http://codepen.io/simeg/pen/mEmQmP).
+[See this example working](https://80drw.csb.app).
 
 ## API
 
