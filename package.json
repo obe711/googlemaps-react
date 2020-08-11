@@ -1,11 +1,11 @@
 {
   "name": "@obediah/googlemaps-react",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "Google Maps API React Component",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "./node_modules/.bin/eslint index.js && echo 'Linting OK! 💪'"
+    "lint": "eslint index.js && echo 'Linting OK! 💪'"
   },
   "repository": {
     "type": "git",
@@ -25,7 +25,6 @@
   },
   "homepage": "https://github.com/obe711/googlemaps-react#readme",
   "dependencies": {
-    "eslint": "^7.6.0",
     "prop-types": "^15.7.2"
   },
   "devDependencies": {}
